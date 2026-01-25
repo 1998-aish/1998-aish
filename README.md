@@ -46,7 +46,7 @@ My professional journey at **Accenture** and **DXC Technology** allowed me to bu
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aish-sv123)  - https://www.linkedin.com/in/aish-sv123
 - 💻 [GitHub](https://github.com/1998-aish)  - https://github.com/1998-aish
-- 📫 Email: [asriv144@asu.edu](mailto:aishwaryasrivastava789@gmail.com)
+- 📫 Email: [aishwaryasrivastava789@gmail.com](mailto:aishwaryasrivastava789@gmail.com)
 
 
 <!--
