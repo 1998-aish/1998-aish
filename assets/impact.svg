@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Impact: 4+ years industry experience; 40% less manual effort at Accenture; 25% less downtime at DXC; 79% of churners caught by my ML model">
+  <defs>
+    <style>
+      .t { font-family: 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; }
+      .card { animation: in 0.7s ease-out both; }
+      @keyframes in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+  <g class="t">
+    <g class="card" style="animation-delay:.1s">
+      <rect x="4" y="4" width="285" height="160" rx="16" fill="#0b1d2e"/>
+      <rect x="28" y="4" width="237" height="5" rx="2.5" fill="#2a9d8f"/>
+      <text x="146" y="78" text-anchor="middle" fill="#7ee0c9" font-size="52" font-weight="800">4+</text>
+      <text x="146" y="112" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="600">years in industry</text>
+      <text x="146" y="138" text-anchor="middle" fill="#9fb7c4" font-size="14">Accenture · DXC Technology</text>
+    </g>
+    <g class="card" style="animation-delay:.3s">
+      <rect x="305" y="4" width="285" height="160" rx="16" fill="#0b1d2e"/>
+      <rect x="329" y="4" width="237" height="5" rx="2.5" fill="#e9c46a"/>
+      <text x="447" y="78" text-anchor="middle" fill="#e9c46a" font-size="52" font-weight="800">40%</text>
+      <text x="447" y="112" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="600">less manual effort</text>
+      <text x="447" y="138" text-anchor="middle" fill="#9fb7c4" font-size="14">Python + UiPath automation</text>
+    </g>
+    <g class="card" style="animation-delay:.5s">
+      <rect x="606" y="4" width="285" height="160" rx="16" fill="#0b1d2e"/>
+      <rect x="630" y="4" width="237" height="5" rx="2.5" fill="#f4a261"/>
+      <text x="748" y="78" text-anchor="middle" fill="#f4a261" font-size="52" font-weight="800">25%</text>
+      <text x="748" y="112" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="600">less downtime</text>
+      <text x="748" y="138" text-anchor="middle" fill="#9fb7c4" font-size="14">Docker + Kubernetes workflows</text>
+    </g>
+    <g class="card" style="animation-delay:.7s">
+      <rect x="907" y="4" width="285" height="160" rx="16" fill="#0b1d2e"/>
+      <rect x="931" y="4" width="237" height="5" rx="2.5" fill="#e76f51"/>
+      <text x="1049" y="78" text-anchor="middle" fill="#e76f51" font-size="52" font-weight="800">79%</text>
+      <text x="1049" y="112" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="600">of churners caught</text>
+      <text x="1049" y="138" text-anchor="middle" fill="#9fb7c4" font-size="14">ML churn model (from 56%)</text>
+    </g>
+  </g>
+</svg>

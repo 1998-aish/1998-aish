@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Career timeline: DXC Technology Software Engineer 2020–2023; Accenture Packaged App Development Analyst 2023–2024; Arizona State University M.S. Data Science and Analytics, current">
+  <defs>
+    <style>
+      .t { font-family: 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; }
+      .track { stroke-dasharray: 1060; stroke-dashoffset: 0; animation: draw 1.6s ease-out both; }
+      @keyframes draw { from { stroke-dashoffset: 1060; } to { stroke-dashoffset: 0; } }
+      .node { animation: in 0.6s ease-out both; }
+      @keyframes in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="#0b1d2e"/>
+  <g class="t">
+    <line class="track" x1="70" y1="150" x2="1130" y2="150" stroke="#2f5568" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- DXC -->
+    <g class="node" style="animation-delay:.3s">
+      <circle cx="200" cy="150" r="14" fill="#0b1d2e" stroke="#f4a261" stroke-width="4"/>
+      <text x="200" y="118" text-anchor="middle" fill="#f4a261" font-size="15" font-weight="700">JUL 2020 – MAR 2023</text>
+      <text x="200" y="195" text-anchor="middle" fill="#ffffff" font-size="21" font-weight="700">DXC Technology</text>
+      <text x="200" y="220" text-anchor="middle" fill="#d6e6ee" font-size="15">Software Engineer</text>
+      <text x="200" y="246" text-anchor="middle" fill="#9fb7c4" font-size="13">Docker · Kubernetes · Python · SQL · Tableau</text>
+    </g>
+
+    <!-- Accenture -->
+    <g class="node" style="animation-delay:.8s">
+      <circle cx="600" cy="150" r="14" fill="#0b1d2e" stroke="#e9c46a" stroke-width="4"/>
+      <text x="600" y="118" text-anchor="middle" fill="#e9c46a" font-size="15" font-weight="700">APR 2023 – DEC 2024</text>
+      <text x="600" y="195" text-anchor="middle" fill="#ffffff" font-size="21" font-weight="700">Accenture</text>
+      <text x="600" y="220" text-anchor="middle" fill="#d6e6ee" font-size="15">Packaged App Development Analyst</text>
+      <text x="600" y="246" text-anchor="middle" fill="#9fb7c4" font-size="13">Python · UiPath · Docker · Tableau · SAS</text>
+    </g>
+
+    <!-- ASU -->
+    <g class="node" style="animation-delay:1.3s">
+      <circle cx="1000" cy="150" r="16" fill="#2a9d8f"/>
+      <circle cx="1000" cy="150" r="16" fill="none" stroke="#7ee0c9" stroke-width="3">
+        <animate attributeName="r" values="16;26;16" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="1000" y="118" text-anchor="middle" fill="#7ee0c9" font-size="15" font-weight="700">NOW</text>
+      <text x="1000" y="195" text-anchor="middle" fill="#ffffff" font-size="21" font-weight="700">Arizona State University</text>
+      <text x="1000" y="220" text-anchor="middle" fill="#d6e6ee" font-size="15">M.S. Data Science &amp; Analytics</text>
+      <text x="1000" y="246" text-anchor="middle" fill="#9fb7c4" font-size="13">Machine learning · Statistics · Decision analytics</text>
+    </g>
+
+    <text x="70" y="50" fill="#ffffff" font-size="20" font-weight="700">Career journey</text>
+    <text x="70" y="74" fill="#9fb7c4" font-size="14">Software engineering → automation &amp; analytics → data science</text>
+  </g>
+</svg>

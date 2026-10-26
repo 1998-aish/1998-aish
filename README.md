@@ -1,55 +1,98 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" alt="Aishwarya Srivastava · Data Scientist · Data Analyst · Software Engineer" width="100%" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2A9D8F&center=true&vCenter=true&width=720&lines=Data+Scientist+%7C+Data+Analyst;Machine+Learning+%26+Predictive+Modeling;SQL+%2B+Python+%2B+Tableau;Automation+%26+Software+Engineering;Turning+data+into+business+decisions" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A9D8F&center=true&vCenter=true&width=720&lines=Machine+learning+%26+predictive+modeling;SQL+%2B+Python+%2B+Tableau+analytics;Automation+%26+software+engineering;Turning+data+into+business+decisions" alt="Typing SVG" />
+</p>
 
-# Aishwarya Srivastava
+<p align="center">
+  <a href="https://www.linkedin.com/in/aish-sv123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aishwaryasrivastava789@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/1998-aish?tab=repositories"><img src="https://img.shields.io/badge/All_projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="All projects" /></a>
+</p>
 
-### Data Scientist · Data Analyst · Software Engineer
-**4+ years at Accenture & DXC Technology** · M.S. Data Science & Analytics @ **Arizona State University**
-
-🟢 **Open to full-time roles in the US:** Data Science · Data Analytics · Software Engineering · Sales/Solutions Engineering
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aish-sv123)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwaryasrivastava789@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1998-aish)
-
-</div>
+<p align="center">
+  <b>Open to full-time roles in the US:</b> Data Science · Data Analytics · Software Engineering · Sales/Solutions Engineering
+</p>
 
 ---
 
 ## 🚀 About me
 
-I combine a computer science background with **4+ years of industry experience** in intelligent automation, analytics and software engineering. At Accenture and DXC Technology I built RPA systems, deployed containerized microservices, created executive dashboards and developed predictive models used in day-to-day operations. I enjoy the full data lifecycle, from wrangling and modeling to visualization, and explaining results clearly to technical and non-technical teams.
+I combine a computer science background with **4+ years of industry experience** in intelligent automation, analytics and software engineering. At **Accenture** and **DXC Technology** I built RPA systems, deployed containerized microservices, created executive dashboards and developed predictive models used in day-to-day operations. I'm now completing an **M.S. in Data Science & Analytics at Arizona State University**, focused on turning data into decisions and explaining results clearly to technical and business teams.
 
-| 🎯 Core strengths | 🔭 Current focus |
-|---|---|
-| Machine learning & predictive modeling | Deploying ML models as interactive apps |
-| SQL analytics & business insights | Building Tableau / Power BI dashboards |
-| Data visualization & storytelling | Testing & CI for data pipelines |
-| Automation (Python, RPA, Docker) | Cloud (AWS, GCP) for data workloads |
-| Explaining technical work to business teams | Customer analytics: churn, segmentation, retention |
+<p align="center">
+  <img src="assets/impact.svg" alt="Impact: 4+ years industry experience; 40% less manual effort; 25% less downtime; 79% of churners caught" width="100%" />
+</p>
 
 ---
 
 ## ⭐ Featured projects
 
-| Project | What it does | Result | Stack |
-|---|---|---|---|
-| 📉 **[Customer Churn Prediction](https://github.com/1998-aish/churn-prediction-ml)** | Flags telecom customers likely to leave so retention teams can act early; tuned pipeline, Streamlit app, tests and CI | Catches **79% of churners** (up from 56%); top 20% riskiest customers = 50% of churners | Python, scikit-learn, Streamlit, pytest, GitHub Actions |
-| 🛍️ **[Customer Segmentation](https://github.com/1998-aish/customer-segmentation-ml)** | Groups mall customers into data-driven segments with a marketing action for each | **6 segments** chosen by silhouette analysis; found a 16% "affluent but low-spending" growth segment | Python, scikit-learn (K-Means, PCA) |
-| 🍕 **[Pizza Sales Analysis](https://github.com/1998-aish/pizza_sales_SQL)** | Analyzes a year of restaurant transactions for revenue drivers and peak demand | **$818K revenue / 21K orders** analyzed; lunch and dinner rush windows, menu items to cut | SQL (PostgreSQL, CTEs, window functions) |
-| 🎬 **[Movie Catalog Analysis](https://github.com/1998-aish/Netflix-Analysis)** | Explores 9.8K movies to compare genre frequency, popularity and audience ratings | Animation is the high-popularity, high-rating "sweet spot"; Action and Sci-Fi draw clicks but rate low | Python, pandas, Matplotlib |
-| 🔎 **[Google Trends Analysis](https://github.com/1998-aish/Google-Data-Analysis-using-Python)** | Measures global search demand for ML, data science and cloud computing via the PyTrends API | ML searched ~3–4× more than cloud; all topics peak in June and dip in late December | Python, PyTrends, Plotly |
+<table>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/1998-aish/churn-prediction-ml"><img src="https://raw.githubusercontent.com/1998-aish/churn-prediction-ml/main/images/churn_drivers.png" alt="Customer churn drivers" width="100%" /></a>
+      <h3>📉 <a href="https://github.com/1998-aish/churn-prediction-ml">Customer Churn Prediction</a></h3>
+      Flags telecom customers likely to leave so retention teams can act early. Built as a tuned pipeline with a Streamlit app, a test suite and CI.<br/><br/>
+      <b>Result:</b> catches <b>79% of churners</b> (up from 56%); contacting the riskiest 20% of customers reaches 50% of all churners.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/1998-aish/customer-segmentation-ml"><img src="https://raw.githubusercontent.com/1998-aish/customer-segmentation-ml/main/images/segments_income_spending.png" alt="Customer segments" width="100%" /></a>
+      <h3>🛍️ <a href="https://github.com/1998-aish/customer-segmentation-ml">Customer Segmentation</a></h3>
+      <b>6 data-driven segments</b> chosen by silhouette analysis, each with a marketing action. Surfaced a 16% "affluent but low-spending" growth segment.<br/><br/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/K--Means_·_PCA-264653?style=flat-square" alt="K-Means and PCA" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/1998-aish/pizza_sales_SQL"><img src="https://raw.githubusercontent.com/1998-aish/pizza_sales_SQL/main/images/sales_overview.png" alt="Pizza sales overview" width="100%" /></a>
+      <h3>🍕 <a href="https://github.com/1998-aish/pizza_sales_SQL">Pizza Sales Analysis</a></h3>
+      <b>$818K revenue / 21K orders</b> analyzed in SQL to find lunch and dinner rush windows, the busiest days, and menu items to cut.<br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/CTEs_·_Window_functions-336791?style=flat-square" alt="CTEs and window functions" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/1998-aish/Netflix-Analysis"><img src="https://raw.githubusercontent.com/1998-aish/Netflix-Analysis/main/images/rating_by_genre.png" alt="Rating by genre" width="100%" /></a>
+      <h3>🎬 <a href="https://github.com/1998-aish/Netflix-Analysis">Movie Catalog Analysis</a></h3>
+      9.8K movies analyzed: <b>Animation is the high-popularity, high-rating "sweet spot"</b>, while Action and Sci-Fi draw clicks but rate low.<br/><br/>
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/1998-aish/Google-Data-Analysis-using-Python"><img src="https://raw.githubusercontent.com/1998-aish/Google-Data-Analysis-using-Python/main/images/keyword_comparison.png" alt="Keyword comparison" width="100%" /></a>
+      <h3>🔎 <a href="https://github.com/1998-aish/Google-Data-Analysis-using-Python">Google Trends Analysis</a></h3>
+      Global search demand via the PyTrends API: <b>"machine learning" is searched ~3–4× more than "cloud computing"</b>, and all three topics peak in June.<br/><br/>
+      <img src="https://img.shields.io/badge/PyTrends_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="PyTrends" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
+<p align="center">
+  <img src="assets/timeline.svg" alt="Career timeline: DXC Technology Software Engineer 2020–2023; Accenture Analyst 2023–2024; ASU M.S. Data Science, current" width="100%" />
+</p>
+
 **Accenture | Packaged App Development Analyst** · Apr 2023 – Dec 2024
+
 - Developed and deployed automation solutions with Python, Docker and UiPath, **reducing manual effort by 40%**
 - Built Tableau dashboards and SAS predictive models for operational intelligence
 
 **DXC Technology | Software Engineer** · Jul 2020 – Mar 2023
+
 - Led IT workflow automation with Docker and Kubernetes, **cutting downtime by 25%**
 - Delivered analytics tools using Python, SQL and Tableau for forecasting and performance analysis
 
@@ -57,57 +100,33 @@ I combine a computer science background with **4+ years of industry experience**
 
 ## 🛠 Tech stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,sklearn,tensorflow,anaconda&perline=7" alt="Python, R, PostgreSQL, MySQL, scikit-learn, TensorFlow, Anaconda" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,githubactions,vscode&perline=7" alt="Docker, Kubernetes, AWS, GCP, Git, GitHub Actions, VS Code" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0766D1?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
+  <img src="https://img.shields.io/badge/SAS-0766D1?style=for-the-badge" alt="SAS" />
+</p>
 
-**Data science & machine learning**
-
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-*A/B testing · regression · classification · clustering · time-series forecasting · NLP*
-
-**BI & visualization**
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-**Databases, cloud & big data**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-
-**Engineering, DevOps & automation**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-555555?style=flat-square)
+<p align="center"><i>A/B testing · regression · classification · clustering · time-series forecasting · NLP · REST APIs · Agile/Scrum</i></p>
 
 ---
 
-## 📫 Let's connect
-
-I'm happy to chat about data, automation, or roles on your team.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aish--sv123-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aish-sv123)
-[![Email](https://img.shields.io/badge/Email-aishwaryasrivastava789%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aishwaryasrivastava789@gmail.com)
+<p align="center">
+  <b>📫 Let's connect.</b> I'm happy to chat about data, automation, or roles on your team.<br/><br/>
+  <a href="https://www.linkedin.com/in/aish-sv123"><img src="https://img.shields.io/badge/LinkedIn-aish--sv123-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aishwaryasrivastava789@gmail.com"><img src="https://img.shields.io/badge/Email-aishwaryasrivastava789%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
