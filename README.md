@@ -26,12 +26,6 @@ I combine a computer science background with 4+ years of hands-on industry exper
 | **[Movie Catalog Analysis](https://github.com/1998-aish/Netflix-Analysis)** | Explores 9.8K movies to compare genre frequency, popularity and audience ratings | Animation is the high-popularity, high-rating "sweet spot"; Action and Sci-Fi draw clicks but rate low | Python, pandas, Matplotlib |
 | **[Google Trends Analysis](https://github.com/1998-aish/Google-Data-Analysis-using-Python)** | Measures global search demand for ML, data science and cloud computing via the PyTrends API | ML searched ~3–4× more than cloud; all topics peak in June and dip in late December | Python, PyTrends, Plotly |
 
----|---|---|
-| **[Customer Churn Prediction](https://github.com/1998-aish/churn-prediction-ml)** | Predicts which telecom customers are likely to leave so retention teams can act early; compares Logistic Regression, Random Forest, and XGBoost with a recall-first evaluation | Python, scikit-learn, XGBoost, pandas |
-| **[Customer Segmentation](https://github.com/1998-aish/customer-segmentation-ml)** | Groups mall customers into actionable segments for targeted marketing using K-Means and PCA | Python, scikit-learn, pandas |
-| **[Pizza Sales Analysis](https://github.com/1998-aish/pizza_sales_SQL)** | Analyzes a year of restaurant transactions to find revenue drivers, peak hours, and top products | SQL (PostgreSQL) |
-| **[Netflix Content Analysis](https://github.com/1998-aish/Netflix-Analysis)** | Explores trends in Netflix's catalog by genre, country, and release year | Python, pandas, seaborn |
-
 ---
 
 ## 💼 Experience
