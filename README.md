@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aish-sv123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aishwaryasrivastava789@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://1998-aish.github.io"><img src="https://img.shields.io/badge/Portfolio_website-1F8A85?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
   <a href="https://github.com/1998-aish?tab=repositories"><img src="https://img.shields.io/badge/All_projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="All projects" /></a>
 </p>
 
