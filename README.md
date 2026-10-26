@@ -1,54 +1,58 @@
-<p align="center">
-  <img src="https://github.com/1998-aish/1998-aish/blob/main/68747470733a2f2f696f652e656e67696e2e756d6963682e6564752f77702d636f6e74656e742f75706c6f6164732f73697465732f372f323032312f30362f524553495a45445f494f452d4d6173746572735f2d446174612d416e616c79746963732d616e642d4170706c6965642d53746174697374696.jpeg?raw=true" width="60%" />
-</p>
+# Hi, I'm Aishwarya Srivastava 👋
 
-# 👋 Hi, I'm Aishwarya Srivastava
+**Data Scientist & Analyst | 4+ years building automation, analytics, and ML systems at Accenture and DXC Technology**
+M.S. Data Science & Analytics (Computing & Decision Analytics) @ Arizona State University · Based in Arizona
 
-🎓 **Data Science & Analytics Graduate Student** | 📍 Based in the U.S.  
-🔍 Open to **Data Scientist / Data Analyst / Machine Learning Engineer** roles for Summer 2026  
+🟢 **Open to full-time roles (US):** Data Science · Data Analytics · Software Engineering · Sales/Solutions Engineering
 
----
-
-### 🚀 About Me
-
-I'm a passionate data science professional with a background in computer science and 4+ years of experience in intelligent automation and analytics. Currently pursuing my **M.S. in Data Science and Analytics (Computing & Decision Analytics)** at **Arizona State University**, I combine technical rigor with real-world experience to solve complex data problems.
-
-My professional journey at **Accenture** and **DXC Technology** allowed me to build RPA systems, deploy microservices, create dashboards, and develop predictive models to drive impact at scale. I love working with data—from wrangling to modeling to visualization—and enjoy transforming business challenges into data-driven insights.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aish-sv123)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aishwaryasrivastava789@gmail.com)
 
 ---
 
-### 💼 Experience Highlights
+## 🚀 About me
 
-**Accenture – Packaged App Development Analyst**  
-*Apr 2023 – Dec 2024*  
-- Developed and deployed automation solutions using Python, Docker, and UiPath, reducing manual effort by 40%.  
-- Built Tableau dashboards and SAS predictive models for operational intelligence.
-
-**DXC Technology – Software Engineer**  
-*Jul 2020 – Mar 2023*  
-- Led IT workflow automation with Docker & Kubernetes; cut downtime by 25%.  
-- Delivered analytics tools using Python, SQL, and Tableau for forecasting and performance analysis.
+I combine a computer science background with 4+ years of hands-on industry experience in intelligent automation, analytics, and software engineering. At Accenture and DXC Technology I built RPA systems, deployed containerized microservices, created executive dashboards, and developed predictive models used in day-to-day operations. I enjoy the full data lifecycle — wrangling, modeling, visualization — and explaining the results clearly to technical and non-technical teams alike.
 
 ---
 
-### 🧠 Skills
+## ⭐ Featured projects
 
-**Languages & Libraries:** Python, R, SQL, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, SAS  
-**Analytics & Modeling:** A/B Testing, Regression, Classification, Clustering, Time Series  
-**Machine Learning Tools:** TensorFlow, NLP, MLflow, Docker, Kubernetes, Model Deployment  
-**BI & Visualization:** Tableau, Power BI, Excel  
-**Cloud & Big Data:** AWS, GCP, Apache Spark, Hadoop, Snowflake  
-**Other Tools:** Git, GitHub, Postgres, MySQL, Agile/Scrum
+| Project | What it does | Stack |
+|---|---|---|
+| **[Customer Churn Prediction](https://github.com/1998-aish/churn-prediction-ml)** | Predicts which telecom customers are likely to leave so retention teams can act early; compares Logistic Regression, Random Forest, and XGBoost with a recall-first evaluation | Python, scikit-learn, XGBoost, pandas |
+| **[Customer Segmentation](https://github.com/1998-aish/customer-segmentation-ml)** | Groups mall customers into actionable segments for targeted marketing using K-Means and PCA | Python, scikit-learn, pandas |
+| **[Pizza Sales Analysis](https://github.com/1998-aish/pizza_sales_SQL)** | Analyzes a year of restaurant transactions to find revenue drivers, peak hours, and top products | SQL (PostgreSQL) |
+| **[Netflix Content Analysis](https://github.com/1998-aish/Netflix-Analysis)** | Explores trends in Netflix's catalog by genre, country, and release year | Python, pandas, seaborn |
 
 ---
 
-### 🌐 Let's Connect
+## 💼 Experience
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aish-sv123)  - https://www.linkedin.com/in/aish-sv123
-- 💻 [GitHub](https://github.com/1998-aish)  - https://github.com/1998-aish
-- 📫 Email: [aishwaryasrivastava789@gmail.com](mailto:aishwaryasrivastava789@gmail.com)
+**Accenture — Packaged App Development Analyst** · Apr 2023 – Dec 2024
+- Developed and deployed automation solutions with Python, Docker, and UiPath, reducing manual effort by 40%
+- Built Tableau dashboards and SAS predictive models for operational intelligence
 
+**DXC Technology — Software Engineer** · Jul 2020 – Mar 2023
+- Led IT workflow automation with Docker and Kubernetes, cutting downtime by 25%
+- Delivered analytics tools using Python, SQL, and Tableau for forecasting and performance analysis
 
-<!--
-![Aishwarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1998-aish&show_icons=true&theme=radical)
--->
+---
+
+## 🛠 Skills
+
+**Languages & libraries:** Python, R, SQL, SAS, pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+**Analytics & modeling:** A/B testing, regression, classification, clustering, time series forecasting
+**Machine learning:** TensorFlow, NLP, MLflow, model deployment
+**BI & visualization:** Tableau, Power BI, Excel
+**Cloud & big data:** AWS, GCP, Apache Spark, Hadoop, Snowflake
+**Engineering & DevOps:** Docker, Kubernetes, Git, GitHub, REST APIs
+**Databases:** PostgreSQL, MySQL
+**Automation:** UiPath (RPA)
+**Ways of working:** Agile/Scrum, stakeholder communication
+
+---
+
+## 📫 Let's connect
+
+Reach me at **aishwaryasrivastava789@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/aish-sv123) — happy to chat about data, automation, or roles on your team.
