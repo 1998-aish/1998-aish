@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 480 300" role="img" aria-label="Architecture diagram: a question goes to a router, which sends it to one of three LLM agents. The agents use RAG and the Salesforce REST API as tools, and answers pass a hallucination check."><rect width="480" height="300" rx="14" fill="#0f1714"/>
+              <rect x="12" y="112" width="96" height="64" rx="12" fill="#18241f" stroke="#00E699" stroke-opacity=".5"/>
+              <text x="60" y="150" text-anchor="middle" style="font:600 16px Inter,system-ui,sans-serif" fill="#FAFAFA">Question</text>
+              <rect x="128" y="116" width="92" height="56" rx="28" fill="#00E699"/>
+              <text x="174" y="150" text-anchor="middle" style="font:800 17px Inter,system-ui,sans-serif" fill="#05291c">Router</text>
+              <g stroke="#00E699" stroke-width="2" fill="none" opacity=".75"><path d="M108 144H128M220 144 C238 144 238 54 256 54M220 144H256M220 144 C238 144 238 234 256 234M376 54 C392 54 392 144 404 144M376 144H404M376 234 C392 234 392 144 404 144"/></g>
+              <g fill="#18241f" stroke="#00E699" stroke-opacity=".5"><rect x="256" y="26" width="120" height="56" rx="12"/><rect x="256" y="116" width="120" height="56" rx="12"/><rect x="256" y="206" width="120" height="56" rx="12"/></g>
+              <g style="font:600 16px Inter,system-ui,sans-serif" fill="#FAFAFA" text-anchor="middle"><text x="316" y="60">LLM agent 1</text><text x="316" y="150">LLM agent 2</text><text x="316" y="240">LLM agent 3</text></g>
+              <rect x="404" y="104" width="66" height="80" rx="12" fill="#18241f" stroke="#00E699"/>
+              <text x="437" y="140" text-anchor="middle" style="font:700 15px Inter,system-ui,sans-serif" fill="#00E699">Fact</text>
+              <text x="437" y="160" text-anchor="middle" style="font:700 15px Inter,system-ui,sans-serif" fill="#00E699">check</text>
+              <text x="240" y="290" text-anchor="middle" style="font:600 15px Inter,system-ui,sans-serif" fill="#9fb3ab">Tools: RAG + Salesforce REST API</text>
+            </svg>
