@@ -21,10 +21,10 @@
 
 ## 🚀 About me
 
-I combine a computer science background with **4+ years of industry experience** in intelligent automation, analytics and software engineering. At **Accenture** and **DXC Technology** I built RPA systems, deployed containerized microservices, created executive dashboards and developed predictive models used in day-to-day operations. I'm now completing an **M.S. in Data Science & Analytics at Arizona State University**, focused on turning data into decisions and explaining results clearly to technical and business teams.
+I'm completing an **M.S. in Data Science & Analytics at Arizona State University** (Dec 2026, **4.00 GPA**) after **4+ years** building data pipelines, automation and dashboards at **DXC Technology** and **Accenture**. In summer 2026 I was a **Sales Engineer Intern at Rubrik**, owning enterprise deployments and running customer demos. I like problems where a model or a dashboard has to convince a real stakeholder.
 
 <p align="center">
-  <img src="assets/impact.svg" alt="Impact: 4+ years industry experience; 40% less manual effort; 25% less downtime; 79% of churners caught" width="100%" />
+  <img src="assets/impact.svg" alt="Impact: 4+ years industry experience; $150K+ added revenue at Accenture; 15+ customer demos at Rubrik; 15% MAPE on Valley Fever forecasting" width="100%" />
 </p>
 
 ---
@@ -33,11 +33,31 @@ I combine a computer science background with **4+ years of industry experience**
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/1998-aish/Valley-fever-forecasting"><img src="assets/valley.svg" alt="Valley Fever forecasting pipeline: four public data sources, 50+ features, XGBoost vs SARIMAX, 15% MAPE" width="100%" /></a>
+      <h3>🦠 <a href="https://github.com/1998-aish/Valley-fever-forecasting">Valley Fever Outbreak Forecasting</a></h3>
+      ASU capstone forecasting county-level outbreak risk in Arizona from public health, air quality and weather data.<br/><br/>
+      <b>Result:</b> <b>15% MAPE</b>, 25% better than a seasonal baseline; 4 sources (80K+ records) into 50+ features, explained with SHAP.<br/><br/>
+      <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost" />
+      <img src="https://img.shields.io/badge/SARIMAX-264653?style=flat-square" alt="SARIMAX" />
+      <img src="https://img.shields.io/badge/SHAP-1F8A85?style=flat-square" alt="SHAP" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/copilot.svg" alt="SE Copilot architecture: router, three LLM agents, RAG and Salesforce REST API tools, fact check" width="100%" />
+      <h3>🤖 SE Copilot: Multi-Agent LLM System</h3>
+      A router sends each question to the right LLM agent, which draws on RAG and the Salesforce REST API, with hallucination checks on every answer.<br/><br/>
+      <b>Result:</b> shipped <b>3 LLM agents</b>, adopted by <b>5+ engineers</b>.<br/><br/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square" alt="OpenAI API" />
+      <img src="https://img.shields.io/badge/RAG-1F8A85?style=flat-square" alt="RAG" />
+    </td>
+  </tr>
+  <tr>
     <td colspan="2">
       <a href="https://github.com/1998-aish/churn-prediction-ml"><img src="https://raw.githubusercontent.com/1998-aish/churn-prediction-ml/main/images/churn_drivers.png" alt="Customer churn drivers" width="100%" /></a>
       <h3>📉 <a href="https://github.com/1998-aish/churn-prediction-ml">Customer Churn Prediction</a></h3>
       Flags telecom customers likely to leave so retention teams can act early. Built as a tuned pipeline with a Streamlit app, a test suite and CI.<br/><br/>
-      <b>Result:</b> catches <b>79% of churners</b> (up from 56%); contacting the riskiest 20% of customers reaches 50% of all churners.<br/><br/>
+      <b>Result:</b> <b>80.6% accuracy</b> on 7,043 customers; the recall-tuned model catches <b>79% of churners</b>, and the riskiest 20% of customers include half of all churners.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
@@ -84,18 +104,33 @@ I combine a computer science background with **4+ years of industry experience**
 ## 💼 Experience
 
 <p align="center">
-  <img src="assets/timeline.svg" alt="Career timeline: DXC Technology Software Engineer 2020–2023; Accenture Analyst 2023–2024; ASU M.S. Data Science, current" width="100%" />
+  <img src="assets/timeline.svg" alt="Career timeline: DXC Technology 2020–2023; Accenture 2023–2024; ASU M.S. Data Science 2025–2026; Rubrik Sales Engineer Intern 2026" width="100%" />
 </p>
 
-**Accenture | Packaged App Development Analyst** · Apr 2023 – Dec 2024
+**Rubrik | Sales Engineer Intern** · Austin, TX · Jun 2026 – Aug 2026
 
-- Developed and deployed automation solutions with Python, Docker and UiPath, **reducing manual effort by 40%**
-- Built Tableau dashboards and SAS predictive models for operational intelligence
+- Owned deployments for **7+ enterprise customers**, triaging failures through log analysis with product engineering; **4+ customers** advanced to the next deal stage
+- Translated requirements from **20+ customer calls across 8+ industries** into designs and **15+ demos**
 
-**DXC Technology | Software Engineer** · Jul 2020 – Mar 2023
+**Arizona State University | Business Operations Analyst (Part-time)** · Tempe, AZ · Mar 2026 – Present
 
-- Led IT workflow automation with Docker and Kubernetes, **cutting downtime by 25%**
-- Delivered analytics tools using Python, SQL and Tableau for forecasting and performance analysis
+- Created Excel dashboards tracking **25+ purchase orders and invoices per month** across **7+ departments**, reconciling records weekly and monthly
+
+**Accenture | Packaged App Development Analyst** · Bengaluru, India · Apr 2023 – Dec 2024
+
+- Developed payment processing automation on daily and monthly schedules, verified with automated test scripts
+- Administered the automation control room (scheduling, credentials, workflows) using SAP automation, IQ Bot and SQL
+- Partnered with QA and developers to enhance flagship products, generating **$150K+ in additional revenue**
+
+**DXC Technology | Professional 1 Software Engineer** · Bengaluru, India · Jul 2020 – Mar 2023
+
+- Engineered and operated Python/SQL data pipelines for **2.5+ years** on Docker and Kubernetes
+- Debugged production incidents through log analysis and added validation checks that stopped bad records early
+- Built SQL dashboards tracking SLA and KPI metrics · **Quarterly Champ Award** · **promoted within 1.8 years** · Team Leader for the Belron account
+
+**Education:** M.S. Data Science & Analytics, Arizona State University (Jan 2025 – Dec 2026, 4.00 GPA) · B.Tech. Computer Science, Dr. B.C. Roy Engineering College (2016 – 2020, 3.5 GPA)
+
+**Certifications:** Microsoft Azure Fundamentals (AZ-900) · Certified ScrumMaster (CSM) · Automation Anywhere Advanced RPA Professional · Oracle OCI Foundations · CodePath Foundations of AI Engineering
 
 ---
 

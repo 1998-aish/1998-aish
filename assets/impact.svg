@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Impact: 4+ years industry experience; 40% less manual effort at Accenture; 25% less downtime at DXC; 79% of churners caught by my ML model">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Impact: 4+ years industry experience; $150K+ added revenue at Accenture; 15+ customer demos at Rubrik; 15% MAPE on Valley Fever forecasting">
   <defs>
     <style>
       .t { font-family: 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; }
@@ -17,23 +17,23 @@
     <g class="card" style="animation-delay:.3s">
       <rect x="305" y="4" width="285" height="160" rx="16" fill="#0b1d2e"/>
       <rect x="329" y="4" width="237" height="5" rx="2.5" fill="#e9c46a"/>
-      <text x="447" y="78" text-anchor="middle" fill="#e9c46a" font-size="52" font-weight="800">40%</text>
-      <text x="447" y="112" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="600">less manual effort</text>
-      <text x="447" y="138" text-anchor="middle" fill="#9fb7c4" font-size="14">Python + UiPath automation</text>
+      <text x="447" y="78" text-anchor="middle" fill="#e9c46a" font-size="52" font-weight="800">$150K+</text>
+      <text x="447" y="112" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="600">added revenue</text>
+      <text x="447" y="138" text-anchor="middle" fill="#9fb7c4" font-size="14">Accenture product work</text>
     </g>
     <g class="card" style="animation-delay:.5s">
       <rect x="606" y="4" width="285" height="160" rx="16" fill="#0b1d2e"/>
       <rect x="630" y="4" width="237" height="5" rx="2.5" fill="#f4a261"/>
-      <text x="748" y="78" text-anchor="middle" fill="#f4a261" font-size="52" font-weight="800">25%</text>
-      <text x="748" y="112" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="600">less downtime</text>
-      <text x="748" y="138" text-anchor="middle" fill="#9fb7c4" font-size="14">Docker + Kubernetes workflows</text>
+      <text x="748" y="78" text-anchor="middle" fill="#f4a261" font-size="52" font-weight="800">15+</text>
+      <text x="748" y="112" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="600">customer demos</text>
+      <text x="748" y="138" text-anchor="middle" fill="#9fb7c4" font-size="14">Rubrik Sales Engineer Intern</text>
     </g>
     <g class="card" style="animation-delay:.7s">
       <rect x="907" y="4" width="285" height="160" rx="16" fill="#0b1d2e"/>
       <rect x="931" y="4" width="237" height="5" rx="2.5" fill="#e76f51"/>
-      <text x="1049" y="78" text-anchor="middle" fill="#e76f51" font-size="52" font-weight="800">79%</text>
-      <text x="1049" y="112" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="600">of churners caught</text>
-      <text x="1049" y="138" text-anchor="middle" fill="#9fb7c4" font-size="14">ML churn model (from 56%)</text>
+      <text x="1049" y="78" text-anchor="middle" fill="#e76f51" font-size="52" font-weight="800">15%</text>
+      <text x="1049" y="112" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="600">MAPE forecasting</text>
+      <text x="1049" y="138" text-anchor="middle" fill="#9fb7c4" font-size="14">Valley Fever capstone</text>
     </g>
   </g>
 </svg>
