@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Aishwarya Srivastava · Data Scientist · Data Analyst · Software Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Aishwarya Srivastava · Business Operations Analyst · Data Analyst · Software Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1d2e"/>
@@ -64,7 +64,7 @@
   <g class="t">
     <text class="fade1" x="60" y="92" fill="#7ee0c9" font-size="20" font-weight="600" letter-spacing="3">HI, I'M</text>
     <text class="fade2" x="58" y="150" fill="#ffffff" font-size="54" font-weight="700">Aishwarya Srivastava</text>
-    <text class="fade3" x="60" y="192" fill="#d6e6ee" font-size="22">Data Scientist · Data Analyst · Software Engineer</text>
+    <text class="fade3" x="60" y="192" fill="#d6e6ee" font-size="22">Business Operations Analyst · Data Analyst · Software Engineer</text>
 
     <g class="fade4" font-size="15" font-weight="600">
       <rect x="60"  y="222" width="236" height="36" rx="18" fill="#2a9d8f" fill-opacity="0.25" stroke="#2a9d8f"/>
