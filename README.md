@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <b>Open to full-time roles in the US:</b> Data Science · Data Analytics · Software Engineering · Sales/Solutions Engineering
+  <b>Open to full-time roles in the US:</b> Business Operations Analyst
 </p>
 
 ---
