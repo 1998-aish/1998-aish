@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Aishwarya Srivastava · Data Scientist · Data Analyst · Software Engineer" width="100%" />
+  <img src="assets/banner.svg" alt="Aishwarya Srivastava · Business Operations Analyst " width="100%" />
 </p>
 
 <p align="center">
