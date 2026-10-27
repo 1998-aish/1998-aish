@@ -110,8 +110,10 @@ I'm completing an **M.S. in Data Science & Analytics at Arizona State University
 
 **Rubrik | Sales Engineer Intern** · Austin, TX · Jun 2026 – Aug 2026
 
-- Owned deployments for **7+ enterprise customers**, triaging failures through log analysis with product engineering; **4+ customers** advanced to the next deal stage
-- Translated requirements from **20+ customer calls across 8+ industries** into designs and **15+ demos**
+- Analyzed customer requirements from **20+ calls across 8+ industries**, turning recurring operational challenges into structured insights for sales planning and solution evaluation
+- Coordinated proof-of-concept activities across customer environments, tracking deployment progress, technical blockers and stakeholder feedback
+- Built reporting summaries from customer discussions, validation results and issue logs, highlighting trends, process gaps and follow-ups
+- Partnered with engineering and sales operations to document workflow requirements, clarify issue ownership and standardize handoffs
 
 **Arizona State University | Business Operations Analyst (Part-time)** · Tempe, AZ · Mar 2026 – Present
 
@@ -119,15 +121,17 @@ I'm completing an **M.S. in Data Science & Analytics at Arizona State University
 
 **Accenture | Packaged App Development Analyst** · Bengaluru, India · Apr 2023 – Dec 2024
 
-- Developed payment processing automation on daily and monthly schedules, verified with automated test scripts
-- Administered the automation control room (scheduling, credentials, workflows) using SAP automation, IQ Bot and SQL
-- Partnered with QA and developers to enhance flagship products, generating **$150K+ in additional revenue**
+- Found automation opportunities in process execution data with Python, improving workflow processing speed by **40%**
+- Automated repetitive data processing with Python and REST API integrations, eliminating **20+ hours of manual work per week**
+- Analyzed application monitoring, incident trends and SLA compliance, coordinating fixes that cut service-level violations by **18%**
+- Documented automation workflows, exception handling and monitoring requirements to standardize operations
 
 **DXC Technology | Professional 1 Software Engineer** · Bengaluru, India · Jul 2020 – Mar 2023
 
-- Engineered and operated Python/SQL data pipelines for **2.5+ years** on Docker and Kubernetes
-- Debugged production incidents through log analysis and added validation checks that stopped bad records early
-- Built SQL dashboards tracking SLA and KPI metrics · **Quarterly Champ Award** · **promoted within 1.8 years** · Team Leader for the Belron account
+- Consolidated operational data from multiple business systems with Python, SQL and ETL pipelines for consistent reporting
+- Validated transformations and resolved recurring processing issues, improving pipeline stability by **35%**
+- Traced recurring failures through SQL analysis and application logs, reducing pipeline failures by **24%**
+- Integrated data across platforms with REST APIs and optimized SQL · **Quarterly Champ Award** · **promoted within 1.8 years** · Team Leader for the Belron account
 
 **Education:** M.S. Data Science & Analytics, Arizona State University (Jan 2025 – Dec 2026, 4.00 GPA) · B.Tech. Computer Science, Dr. B.C. Roy Engineering College (2016 – 2020, 3.5 GPA)
 
@@ -138,27 +142,26 @@ I'm completing an **M.S. in Data Science & Analytics at Arizona State University
 ## 🛠 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,sklearn,tensorflow,anaconda&perline=7" alt="Python, R, PostgreSQL, MySQL, scikit-learn, TensorFlow, Anaconda" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,githubactions,vscode&perline=7" alt="Docker, Kubernetes, AWS, GCP, Git, GitHub Actions, VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,docker,kubernetes,git&perline=6" alt="Python, R, SQL (PostgreSQL), Docker, Kubernetes, Git" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
-  <img src="https://img.shields.io/badge/SAS-0766D1?style=for-the-badge" alt="SAS" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Salesforce_API-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce API" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-4B5563?style=for-the-badge" alt="ETL Pipelines" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-0F766E?style=for-the-badge" alt="Multi-Agent Systems" />
 </p>
 
-<p align="center"><i>A/B testing · regression · classification · clustering · time-series forecasting · NLP · REST APIs · Agile/Scrum</i></p>
+| Area | Skills |
+|---|---|
+| **Data Analytics & BI** | Python, SQL, R, pandas, EDA, statistical modeling, regression, logistic regression, hypothesis testing, A/B testing, KPI reporting, data visualization, trend analysis, performance dashboards, operational forecasting |
+| **Automation, Systems & AI** | ETL pipelines, REST APIs, Python scripting, SQL query optimization, data integration and transformation, Docker, Kubernetes, Salesforce API, OpenAI API, LangGraph, RAG, multi-agent systems, AI workflow orchestration |
+| **Business Operations & Process** | Operations analysis, process improvement, workflow optimization, requirements gathering, stakeholder management, cross-functional coordination, sales operations, root cause analysis, process documentation, continuous improvement |
+| **Service Delivery & Enterprise Ops** | SLA compliance, incident management, service performance monitoring, PoC coordination, deployment tracking, data quality validation, pipeline reliability, production troubleshooting, log analysis |
 
 ---
 
