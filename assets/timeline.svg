@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Career timeline: DXC Technology Software Engineer, Jul 2020 to Mar 2023; Accenture Packaged App Development Analyst, Apr 2023 to Dec 2024; Arizona State University M.S. Data Science and Analytics, Jan 2025 to Dec 2026; Rubrik Sales Engineer Intern, Jun to Aug 2026">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Career timeline: DXC Technology Business Operations Analyst, Jul 2020 to Mar 2023; Accenture Business Operations Analyst, Apr 2023 to Dec 2024; Arizona State University M.S. Data Science and Analytics, Jan 2025 to Dec 2026; Rubrik Business Operations Analyst, Jun to Aug 2026">
   <defs>
     <style>
       .t { font-family: 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; }
@@ -19,7 +19,7 @@
       <circle cx="160" cy="150" r="14" fill="#0b1d2e" stroke="#f4a261" stroke-width="4"/>
       <text x="160" y="118" text-anchor="middle" fill="#f4a261" font-size="14" font-weight="700">JUL 2020 – MAR 2023</text>
       <text x="160" y="195" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="700">DXC Technology</text>
-      <text x="160" y="219" text-anchor="middle" fill="#d6e6ee" font-size="14">Software Engineer</text>
+      <text x="160" y="219" text-anchor="middle" fill="#d6e6ee" font-size="14">Business Operations Analyst</text>
       <text x="160" y="244" text-anchor="middle" fill="#9fb7c4" font-size="12.5">ETL pipelines · SQL · REST APIs</text>
       <text x="160" y="262" text-anchor="middle" fill="#9fb7c4" font-size="12.5">35% more stable pipelines</text>
     </g>
@@ -28,7 +28,7 @@
       <circle cx="455" cy="150" r="14" fill="#0b1d2e" stroke="#e9c46a" stroke-width="4"/>
       <text x="455" y="118" text-anchor="middle" fill="#e9c46a" font-size="14" font-weight="700">APR 2023 – DEC 2024</text>
       <text x="455" y="195" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="700">Accenture</text>
-      <text x="455" y="219" text-anchor="middle" fill="#d6e6ee" font-size="14">Packaged App Development Analyst</text>
+      <text x="455" y="219" text-anchor="middle" fill="#d6e6ee" font-size="14">Business Operations Analyst</text>
       <text x="455" y="244" text-anchor="middle" fill="#9fb7c4" font-size="12.5">Python automation · SLA analytics</text>
       <text x="455" y="262" text-anchor="middle" fill="#9fb7c4" font-size="12.5">40% faster workflows</text>
     </g>
@@ -50,7 +50,7 @@
       </circle>
       <text x="1040" y="118" text-anchor="middle" fill="#e76f51" font-size="14" font-weight="700">JUN – AUG 2026</text>
       <text x="1040" y="195" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="700">Rubrik</text>
-      <text x="1040" y="219" text-anchor="middle" fill="#d6e6ee" font-size="14">Sales Engineer Intern</text>
+      <text x="1040" y="219" text-anchor="middle" fill="#d6e6ee" font-size="14">Business Operations Analyst</text>
       <text x="1040" y="244" text-anchor="middle" fill="#9fb7c4" font-size="12.5">20+ customer calls · 8+ industries</text>
       <text x="1040" y="262" text-anchor="middle" fill="#9fb7c4" font-size="12.5">PoC coordination</text>
     </g>
